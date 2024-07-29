@@ -71,10 +71,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p>Creator
     
-<br>Tresna Ayu Safitri<p/>
+<br>Firmansyah<p/>
 
 
 <p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
 
-If you have any questions or suggestions, feel free to open an issue or contact us at [tresnaayu979@gmail.com](mailto:your-email@tresnaayu979@gmail.com).
+If you have any questions or suggestions, feel free to open an issue or contact us at [firmansyahp0412@gmail.com.com](mailto:your-email firmansyahp0412@gmail.com.com).
 
